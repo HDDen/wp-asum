@@ -1,0 +1,8 @@
+{
+    "name": "hdden/wp-asum",
+    "description": "Wordpress plugin to add some useful and speeding up features",
+    "require": {
+        "imangazaliev/didom": "^1.16",
+        "rosell-dk/webp-convert": "^2.4"
+    }
+}
